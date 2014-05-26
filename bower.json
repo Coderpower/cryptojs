@@ -8,7 +8,6 @@
   }],
   "description": "CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns.",
   "license": "MIT",
-  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
